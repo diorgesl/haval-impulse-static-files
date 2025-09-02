@@ -1,0 +1,51 @@
+[
+  {
+    "appName": "MicroG ReVanced",
+    "appVersion": "0.3.1.4.240913",
+    "appPackageName": "app.revanced.android.gms",
+    "appLink": "https://github.com/vancedapps/vanced.to/releases/download/2025-24/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
+    "appIcon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/app.revanced.android.gms.200.webp"
+  },
+  {
+    "appName": "ReVanced Manager",
+    "appVersion": "3.0.4",
+    "appPackageName": "com.revanced.net.revancedmanager",
+    "appLink": "https://github.com/vancedapps/vanced.to/releases/download/2025-33/vanced.to_revanced_manager_plus_v3.0.4.apk",
+    "appIcon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/com.revanced.net.revancedmanager.200.webp"
+  },
+  {
+    "appName": "Aurora Store",
+    "appVersion": "4.7.0",
+    "appPackageName": "com.aurora.store",
+    "appLink": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.0.apk",
+    "appIcon": "https://raw.githubusercontent.com/whyorean/AuroraStore/refs/heads/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  },
+  {
+    "appName": "MicroG GmsCore User",
+    "appVersion": "0.3.7.250932",
+    "appPackageName": "org.microg.gms",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/org.microg.gms-250932014-user.apk",
+    "appIcon": "https://raw.githubusercontent.com/microg/GmsCore/refs/heads/master/vending-app/src/main/res/mipmap-xxhdpi/ic_app.png"
+  },
+  {
+    "appName": "MicroG GmsCore System",
+    "appVersion": "0.3.7.250932",
+    "appPackageName": "com.google.android.gms",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.google.android.gms-250932014.apk",
+    "appIcon": "https://github.com/microg/GmsCore/blob/master/play-services-core/src/main/res/mipmap-xxxhdpi/ic_app_settings.png?raw=true"
+  },
+  {
+    "appName": "MicroG FakeStore",
+    "appVersion": "0.3.7.250932",
+    "appPackageName": "com.android.vending",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614.apk",
+    "appIcon": "https://github.com/microg/GmsCore/blob/master/play-services-core/src/main/res/mipmap-xxxhdpi/ic_app_settings.png?raw=true"
+  },
+  {
+    "appName": "F-Droid",
+    "appVersion": "1.23.1",
+    "appPackageName": "org.fdroid.fdroid",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614.apk",
+    "appIcon": "https://f-droid.org/repo/org.fdroid.fdroid/en-US/icon_0slNR8J9edqDZDoyWABFZrqQONU9EyiNVwM6B3Jui_Q=.png"
+  }
+]

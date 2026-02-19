@@ -15,9 +15,9 @@
   },
   {
     "appName": "Waze",
-    "appVersion": "5.9.5.4",
-    "appPackageName": "com.waze",
-    "appLink": "https://gis.net.br/Waze-5.9.5.4.apk",
+    "appVersion": "5.16.0.2-beta-MOD",
+    "appPackageName": "com.waze-mod",
+    "appLink": "https://gis.net.br/waze.apk",
     "appIcon": "https://modyolo.com/wp-content/uploads/2021/12/waze-gps-maps-traffic-alerts-live-navigation-150x150.jpg"
   },
   {

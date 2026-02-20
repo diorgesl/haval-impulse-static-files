@@ -1,5 +1,12 @@
 [
   {
+    "appName": "Google Maps Go Lite",
+    "appVersion": "161.1",
+    "appPackageName": "com.google.android.apps.mapslite",
+    "appLink": "https://raw.githubusercontent.com/diorgesl/haval-impulse-static-files/refs/heads/main/com.google.android.apps.mapslite.apk",
+    "appIcon": "https://e7.pngegg.com/pngimages/18/985/png-clipart-google-maps-android-go-light-files-go-play-store-maps-logo-sign-thumbnail.png"
+  },
+  {
     "appName": "MicroG ReVanced",
     "appVersion": "0.3.13.2.250932",
     "appPackageName": "app.revanced.android.gms",
@@ -15,30 +22,30 @@
   },
   {
     "appName": "Aurora Store",
-    "appVersion": "4.7.0",
+    "appVersion": "4.8.1",
     "appPackageName": "com.aurora.store",
-    "appLink": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.0.apk",
+    "appLink": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.8.1.apk",
     "appIcon": "https://raw.githubusercontent.com/whyorean/AuroraStore/refs/heads/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   {
     "appName": "MicroG GmsCore User",
-    "appVersion": "0.3.7.250932",
+    "appVersion": "0.3.12.250932",
     "appPackageName": "org.microg.gms",
-    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/org.microg.gms-250932014-user.apk",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.12.250932/org.microg.gms-250932024-user.apk",
     "appIcon": "https://raw.githubusercontent.com/microg/GmsCore/refs/heads/master/vending-app/src/main/res/mipmap-xxhdpi/ic_app.png"
   },
   {
     "appName": "MicroG GmsCore System",
-    "appVersion": "0.3.7.250932",
+    "appVersion": "0.3.12.250932",
     "appPackageName": "com.google.android.gms",
-    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.google.android.gms-250932014.apk",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.12.250932/com.google.android.gms-250932024.apk",
     "appIcon": "https://github.com/microg/GmsCore/blob/master/play-services-core/src/main/res/mipmap-xxxhdpi/ic_app_settings.png?raw=true"
   },
   {
     "appName": "MicroG FakeStore",
-    "appVersion": "0.3.7.250932",
+    "appVersion": "0.3.12.250932",
     "appPackageName": "com.android.vending",
-    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614.apk",
+    "appLink": "https://github.com/microg/GmsCore/releases/download/v0.3.12.250932/com.android.vending-84022624.apk",
     "appIcon": "https://github.com/microg/GmsCore/blob/master/play-services-core/src/main/res/mipmap-xxxhdpi/ic_app_settings.png?raw=true"
   },
   {

@@ -14,6 +14,13 @@
     "appIcon": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"
   },
   {
+    "appName": "Vanced Spotify",
+    "appVersion": "8.10.9",
+    "appPackageName": "com.spotify.vanced.music",
+    "appLink": "https://d.spotifypremiumapkpt.com.br/dl/Spotify-Vanced-APK-(spotifypremiumapkpt.com.br).apk",
+    "appIcon": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"
+  },
+  {
     "appName": "MicroG ReVanced",
     "appVersion": "0.3.13.2.250932",
     "appPackageName": "app.revanced.android.gms",

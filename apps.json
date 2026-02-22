@@ -7,6 +7,13 @@
     "appIcon": "https://e7.pngegg.com/pngimages/18/985/png-clipart-google-maps-android-go-light-files-go-play-store-maps-logo-sign-thumbnail.png"
   },
   {
+    "appName": "Spotify",
+    "appVersion": "251227",
+    "appPackageName": "com.spotify.music",
+    "appLink": "https://github.com/chsbuffer/ReVancedXposed_Spotify/releases/download/autobuild/ReVancedXposedSpotify-251227.apk",
+    "appIcon": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"
+  },
+  {
     "appName": "MicroG ReVanced",
     "appVersion": "0.3.13.2.250932",
     "appPackageName": "app.revanced.android.gms",

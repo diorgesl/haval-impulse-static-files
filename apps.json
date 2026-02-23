@@ -8,10 +8,10 @@
   },
   {
     "appName": "Mint Browser",
-    "appVersion": "20.14.43",
+    "appVersion": "3.9.3",
     "appPackageName": "com.google.android.youtube",
-    "appLink": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221036/youtube-revanced-v20.14.43-all.apk",
-    "appIcon": "http://img.icons8.com/color/512/youtube-squared.png"
+    "appLink": "https://raw.githubusercontent.com/diorgesl/haval-impulse-static-files/refs/heads/main/mint-browser-3-9-3.apk",
+    "appIcon": "https://img.utdstc.com/icon/623/2d4/6232d4e213438a4c0cc619d1e122fe548672122a3671e9dc183db8745da63389:200"
   },
   {
     "appName": "YouTube ReVanced",

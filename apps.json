@@ -18,14 +18,14 @@
     "appVersion": "20.14.43",
     "appPackageName": "com.google.android.youtube",
     "appLink": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221036/youtube-revanced-v20.14.43-all.apk",
-    "appIcon": "http://img.icons8.com/color/512/youtube-squared.png"
+    "appIcon": "https://images.seeklogo.com/logo-png/29/2/youtube-flat-logo-png_seeklogo-291973.png"
   },
   {
     "appName": "YouTube Morphe",
     "appVersion": "20.40.45",
     "appPackageName": "com.google.android.youtube.morphe",
     "appLink": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221039/youtube-morphe-v20.40.45-all.apk",
-    "appIcon": "http://img.icons8.com/color/512/youtube-squared.png"
+    "appIcon": "https://images.seeklogo.com/logo-png/29/2/youtube-flat-logo-png_seeklogo-291973.png"
   },
   {
     "appName": "ReVanced Spotify",

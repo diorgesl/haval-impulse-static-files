@@ -7,6 +7,13 @@
     "appIcon": "https://e7.pngegg.com/pngimages/18/985/png-clipart-google-maps-android-go-light-files-go-play-store-maps-logo-sign-thumbnail.png"
   },
   {
+    "appName": "Mint Browser",
+    "appVersion": "20.14.43",
+    "appPackageName": "com.google.android.youtube",
+    "appLink": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221036/youtube-revanced-v20.14.43-all.apk",
+    "appIcon": "http://img.icons8.com/color/512/youtube-squared.png"
+  },
+  {
     "appName": "YouTube ReVanced",
     "appVersion": "20.14.43",
     "appPackageName": "com.google.android.youtube",
